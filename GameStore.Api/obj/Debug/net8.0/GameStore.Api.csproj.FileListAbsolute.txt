@@ -24,3 +24,9 @@ C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\Game
 C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
 C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.sourcelink.json
+C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
+C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ogunk\OneDrive\Masaüstü\GameStore\GameStore.Api\obj\Debug\net8.0\GameStor.5118A84D.Up2Date
