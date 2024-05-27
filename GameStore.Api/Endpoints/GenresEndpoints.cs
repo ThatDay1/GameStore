@@ -1,4 +1,5 @@
 ﻿using GameStore.Api.Data;
+using GameStore.Api.Entities;
 using GameStore.Api.Mapping;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,9 +13,9 @@ public static class GenresEndpoints
 
         group.MapGet("/", async (GameStoreContext dbContext) =>
             await dbContext.Genres
-                            .Select(genre => genre.ToDto())
-                            .AsNoTracking()
-                            .ToListAsync());
+                           .Select(genre => genre.ToDto())
+                           .AsNoTracking()
+                           .ToListAsync());
 
         return group;
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7cgUsYB1/g=",
+  "dgSpecHash": "RSIWw8jVwxQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ogunk\\OneDrive\\Masaüstü\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\ogunk\\OneDrive\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ogunk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ogunk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
