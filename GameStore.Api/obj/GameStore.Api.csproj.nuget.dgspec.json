@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ogunk\\OneDrive\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\ogunk\\OneDrive\\Masaüstü\\GameStore\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ogunk\\OneDrive\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\ogunk\\OneDrive\\Masaüstü\\GameStore\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ogunk\\OneDrive\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ogunk\\OneDrive\\Masaüstü\\GameStore\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\ogunk\\OneDrive\\Documents\\GitHub\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\ogunk\\OneDrive\\Masaüstü\\GameStore\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\ogunk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ogunk\\OneDrive\\Documents\\GitHub\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\ogunk\\OneDrive\\Masaüstü\\GameStore\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
